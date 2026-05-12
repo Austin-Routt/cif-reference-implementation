@@ -1,6 +1,7 @@
 # CIF Reference Implementation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20146562.svg)](https://doi.org/10.5281/zenodo.20146562)
 
 Open-source Python pipeline for designing **Controlled Incremental Filtration (CIF)** microfluidic devices, with COMSOL 3-D Stokes validation of the Dinh 2024 V1 and V3 outlet geometries.
 
